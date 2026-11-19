@@ -1,6 +1,6 @@
 # Hermes Profiles
 
-Curated Hermes Agent profiles for specialist swarms. Each profile packages a role identity (SOUL.md), skill dependencies, and configuration for a specific architecture/engineering capability that can be deployed as a Hermes agent.
+Curated Hermes Agent profiles from Magnus999 for specialist swarms, to which we added mostly free model selection from Nous, OpenRouter and Google. Each profile packages a role identity (SOUL.md), skill dependencies, and configuration for a specific architecture/engineering capability that can be deployed as a Hermes agent.
 
 These profiles are **opinionated** — they use Hermes-native patterns:
 - Artifact-pyramid output format (progressive disclosure, path-as-handoff)
